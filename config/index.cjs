@@ -26,6 +26,7 @@ const USER_CONFIG = {
       useTemplateId: 'uZ8EAapnR1Fj4g32o2SqlUMLOcVKTlOS9kW62VCuEAg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-30',
+      openUrl: 'https://wfya.github.io/love.html',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -44,7 +45,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-06-29' },
         //相遇念日
-        { keyword: 'meet_day', date: '202-07-27' },
+        { keyword: 'meet_day', date: '2021-07-27' },
       ],
     },
   ],
