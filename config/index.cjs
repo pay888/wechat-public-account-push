@@ -54,7 +54,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'uZ8EAapnR1Fj4g32o2SqlUMLOcVKTlOS9kW62VCuEAg',
+      id: 'oTzPL6flF7sWpR0367V1XCcQ2adQ',
     }
   ],
 
